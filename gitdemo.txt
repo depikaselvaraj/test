@@ -1,11 +1,3 @@
----
---i
-kkkkkkkkkk
+this is modified by local machine to github server
 
-
-
-ii this is for gitbash work
-hello welcome :wq
-
---i
 
